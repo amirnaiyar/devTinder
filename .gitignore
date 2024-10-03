@@ -1,1 +1,5 @@
 node_modules
+<<<<<<< HEAD
+=======
+.env
+>>>>>>> 195d5f7 (user auth)
